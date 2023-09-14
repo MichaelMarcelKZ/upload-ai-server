@@ -9,10 +9,13 @@
   "dependencies": {
     "@fastify/multipart": "^7.7.3",
     "@prisma/client": "^5.3.0",
-    "fastify": "^4.23.0"
+    "fastify": "^4.23.0",
+    "openai": "^4.6.0",
+    "zod": "^3.22.2"
   },
   "devDependencies": {
     "@types/node": "^20.6.0",
+    "dotenv": "^16.3.1",
     "prisma": "^5.3.0",
     "tsx": "^3.12.9",
     "typescript": "^5.2.2"

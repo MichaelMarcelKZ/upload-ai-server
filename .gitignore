@@ -1,3 +1,7 @@
 node_modules
+
+tmp
+example.mp3
+routes.http
 # Keep environment variables out of version control
 .env
