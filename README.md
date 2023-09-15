@@ -53,7 +53,7 @@ Existem dois prompts pré-construídos que podem ser selecionados, mas você tam
 # Clone este repositório (Back-End)
 $ git clone https://github.com/kzs3c/upload-ai-server.git
 
-# Clone o repositório do servidor (Front-End)
+# Clone o repositório da interface web (Front-End)
 $ git clone https://github.com/kzs3c/upload-ai-web.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
